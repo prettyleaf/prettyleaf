@@ -1,6 +1,6 @@
 # 🔥 Welcome Page 💕
 - 👋 Hi, I’m @Rockstar234
-- 👀 I’m interested in Pro-Gaming, Coding, Lookin' for loopholes
+- 👀 I’m interested in Pro-Gaming, Coding, Lookin' for loopholes in the net
 - 🔭 I’m currently thinking about creating some programms for Windows system to optimize it, make it lighter and etc.
 - 🌱 I’m currently study in school.
 - 📑 And by the way I own pretty big Warzone Loadouts storage, all the best weapons are there and always up-to-date.
