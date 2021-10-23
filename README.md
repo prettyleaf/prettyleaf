@@ -20,10 +20,3 @@
 - Features: Logs on your devices, Points balance right next to logs, fully legit.
 - Contact me for more info.
 #
-
-# 🤙 Discord Bot 📱
-- Everything you have to do is: Create bot on dev page, set it up and upload files on hosting server.
-- As easy as working with Twitch-Miner, when you're done with editing bot's bio just turn on the server to make him work.
-- Features: Music Player, LVLs system, Mini-games and so on.
-- Contact me for more info.
-#
