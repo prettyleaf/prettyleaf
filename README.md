@@ -1,14 +1,13 @@
 # 🔥 Welcome Page 💕
 - 👋 Hi, I’m @Rockstar234
 - 👀 I’m interested in Pro-Gaming, Coding, Lookin' for loopholes in the net
-- 🔭 I’m currently thinking about creating some programms for Windows system to optimize it, make it lighter and etc.
-- 🌱 I’m currently studying in school.
-- 📑 I actually can help you with creating your own discord bot, twitch-miner bot.
-- 🤔 I’m looking for help with Python, C++, C# and HTML/CSS
-- 💬 Ask me about ...
+- 🔭 I’m currently exploring the tweaking community who makes Windows light and more, so I pick the best ones and sometimes edit things for popular needs.
+- 🌱 11th grave school student ;)
+- 📑 May help you with creating your own discord bot, twitch-miner bot, optimizing Windows or Tweaking.
+- 🤔 I’m looking for help with Python, C++, C# and HTML/CSS, because wanna co-op coding with my future job.
+- 💬 Ask me about... You may do it in socials. No useless or stupid questions.
 - 📫 You can reach me by clicking socials buttons down below.
-- 😄 Known as: bisvi and pr3ttyleaf
-- ⚡ Fun fact: People often say that I'm about 18-22 y.o., but I'm even younger ;)
+- 😄 Known as: bisvi and __pr3ttyleaf__
 - 🍰 Birthday: 18th of April.
 #
 
