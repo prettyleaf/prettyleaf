@@ -11,14 +11,6 @@
 - 🍰 Birthday: 18th of April.
 #
 
-# 🤷‍♀️ Twitch-Miner 📺
-- Well, its the easiest and best way to start getting points by NOT watching your favourite streamers.
-- This bot will work on Free4Use hosting server which you will create manually with my help.
-- How does it work? Well, ez. I mean, you simply turn on server and your bot starts spying every streamer you prefer to watch.
-- Features: Logs on your devices, Points balance right next to logs, fully legit.
-- Contact me for more info.
-#
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rockstar234/count.svg" />
