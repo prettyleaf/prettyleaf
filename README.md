@@ -1,10 +1,9 @@
 # 🔥 Welcome Page 💕
 - 👋 Hi, I’m @Rockstar234
-- 👀 I’m interested in Pro-Gaming, Coding, Lookin' for loopholes in the net
-- 🔭 I’m currently exploring the tweaking community who makes Windows light and more, so I pick the best ones and sometimes edit things for popular needs.
+- 👀 I’m interested in Pro-Gaming, Coding, always Lookin' for loopholes in the net.
+- 📑 I've dropped gaming and changed my life priorities, so I'd better write code nowadays instead of gaming. 
 - 🌱 11th grave school student ;)
-- 📑 May help you with creating your own discord bot, twitch-miner bot, optimizing Windows or Tweaking.
-- 🤔 I’m looking for help with Python, C++, C# and HTML/CSS, because wanna co-op coding with my future job.
+- 🤔 I’m looking for help with Python, C++, C# and HTML/CSS, because wanna have a job, which is about coding cool stuff.
 - 💬 Ask me about... You may do it in socials. No useless or stupid questions.
 - 📫 You can reach me by clicking socials buttons down below.
 - 😄 Known as: bisvi and __pr3ttyleaf__
