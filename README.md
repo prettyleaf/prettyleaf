@@ -5,7 +5,7 @@
 - 🌱 11th grave school student ;)
 - 🤔 I’m looking for help with Python, C++, C# and HTML/CSS, because wanna have a job, which is about coding cool stuff.
 - 💬 Ask me about... You may do it in socials. No useless or stupid questions.
-- 😄 Known as: bisvi and __pr3ttyleaf__
+- 😄 Known as: bisvi
 - 🍰 Birthday: 18th of April.
 #
 
