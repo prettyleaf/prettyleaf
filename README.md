@@ -1,11 +1,10 @@
 # 🔥 Welcome Page 💕
 - 👋 Hi, I’m @Rockstar234
-- 👀 I’m interested in Pro-Gaming, Coding, always Lookin' for loopholes in the net.
-- 📑 I've dropped gaming and changed my life priorities, so I'd better write code nowadays instead of gaming. 
+- 👀 I’m interested in Pro-Gaming, Coding, always Lookin' for loopholes in the net. 
+- 📑 I've dropped gaming and changed my life priorities, so I'd better write code nowadays instead of gaming. (ofc no)
 - 🌱 11th grave school student ;)
 - 🤔 I’m looking for help with Python, C++, C# and HTML/CSS, because wanna have a job, which is about coding cool stuff.
 - 💬 Ask me about... You may do it in socials. No useless or stupid questions.
-- 📫 You can reach me by clicking socials buttons down below.
 - 😄 Known as: bisvi and __pr3ttyleaf__
 - 🍰 Birthday: 18th of April.
 #
