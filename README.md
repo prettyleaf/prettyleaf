@@ -3,8 +3,8 @@
 - 👀 I’m interested in Pro-Gaming, Coding, always Lookin' for loopholes in the net. 
 - 📑 Part of my life is mostly gaming, but I'm mad about coding when I'm not that lazy.
 - 🌱 Moving to university.
-- 🤔 I’m looking for help with Python, C++, C# and HTML/CSS, because wanna have a job, which is about coding cool stuff.
-- 💬 Ask me about... You may do it in socials. No useless or stupid questions.
+- 🤔 I'm trying myself in Python, C++, C# and HTML/CSS, because wanna have a job, which is about coding cool stuff.
+- 💬 Russian, but English as a second main language.
 - 😄 Known as: pr3ttyleaf or bisvi.
 - 🍰 Birthday: 18th of April.
 #
