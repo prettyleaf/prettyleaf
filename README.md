@@ -1,4 +1,6 @@
-I do stuff for my own, I like making things easier.<br><br> 
+I do stuff for my own, I like making things easier.<br><br>
+18th of April, 2005.<br><br>
+@TeamDominant Founder.<br><br>
 [Betterfox, but some changes](<https://github.com/TeamDominant/Betterfox>)<br><br>
 [TUSUR IT Labs / ТУСУР ИТ Лабораторные работы 1 курс](<https://github.com/prettyleaf/IT-Labs>)<br><br>
 [Betterfox (sandbox)](<https://github.com/prettyleaf/Betterfox>)<br><br>
