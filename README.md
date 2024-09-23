@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="prettyleaf" src="https://repobeats.axiom.co/api/embed/5367578684d1b9dac9d5208c499357f4100d2a02.svg">
-</p>
-
 <h3 align="center">
 I do stuff for my own, I like making things easier.<br><br>
 18th of April, 2005.<br><br>
