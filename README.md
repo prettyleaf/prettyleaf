@@ -19,7 +19,7 @@ I do stuff for my own, I like making things easier.<br><br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prettyleaf&theme=transparent&layout=compact&hide_border=true&langs_count=8&card_width=320" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prettyleaf&theme=transparent&hide_border=true" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=prettyleaf&theme=transparent&hide_border=true" />
 </a></p>
 
 ###
