@@ -1,5 +1,5 @@
 <h1 align="center">
-  🐉 prettyleaf / intermediate dev </h1>
+  🐉 prettyleaf / intermediate dev x devops</h1>
 <h3 align="center">
 I do stuff for my own, I like making things easier.<br><br>
 18th of April, 2005.<br><br>
