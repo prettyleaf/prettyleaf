@@ -12,7 +12,7 @@ I do stuff for my own, I like making things easier.<br><br>
 
 ###
 
-<p align="center"><a href="#">
+<!-- <p align="center"><a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prettyleaf&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=en"" />
 </a>
 <a href="#">
@@ -27,7 +27,16 @@ I do stuff for my own, I like making things easier.<br><br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prettyleaf&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=9">
 </p>
-<h1></h1>
+<h1></h1> -->
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prettyleaf&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prettyleaf&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prettyleaf&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prettyleaf&theme=github_dark)
+
+</div>
 
 ###
 
