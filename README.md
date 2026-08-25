@@ -84,4 +84,3 @@ I do stuff for my own, I like making things easier.<br><br>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
 </div>
-<h1></h1>
