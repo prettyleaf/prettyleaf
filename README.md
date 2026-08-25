@@ -85,11 +85,3 @@ I do stuff for my own, I like making things easier.<br><br>
   <img width="12" />
 </div>
 <h1></h1>
-
-###
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prettyleaf/prettyleaf/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prettyleaf/prettyleaf/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prettyleaf/prettyleaf/output/github-snake-dark.svg">
-</picture></p>
